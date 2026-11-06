@@ -1,0 +1,11 @@
+{
+  "accepted": true,
+  "reviewer_notes": "Accepted for Phaser integration. Six NPC sheets are imagegen-sourced, cleaned to transparent 64x64 fixed cells, and visually cohesive with the player. Rival and casual adult have minor side-row weak-motion warnings but no geometry or chroma failures.",
+  "checks": {
+    "reference_identity": "pass",
+    "direction": "pass",
+    "animation_readable": "pass",
+    "frame_separation": "pass",
+    "not_procedural": "pass"
+  }
+}

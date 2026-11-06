@@ -1,0 +1,1570 @@
+{
+  "compressionlevel": -1,
+  "height": 9,
+  "infinite": false,
+  "layers": [
+    {
+      "data": [
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5
+      ],
+      "height": 9,
+      "id": 0,
+      "name": "ground",
+      "opacity": 1,
+      "type": "tilelayer",
+      "visible": true,
+      "width": 12,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "data": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "height": 9,
+      "id": 0,
+      "name": "decoration",
+      "opacity": 1,
+      "type": "tilelayer",
+      "visible": true,
+      "width": 12,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "data": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "height": 9,
+      "id": 0,
+      "name": "above_player",
+      "opacity": 1,
+      "type": "tilelayer",
+      "visible": true,
+      "width": 12,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "draworder": "topdown",
+      "id": 0,
+      "name": "collision",
+      "objects": [
+        {
+          "height": 16,
+          "id": 0,
+          "name": "collision_0",
+          "properties": [],
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 16,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "height": 16,
+          "id": 0,
+          "name": "collision_1",
+          "properties": [],
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 16,
+          "x": 16,
+          "y": 0
+        },
+        {
+          "height": 16,
+          "id": 0,
+          "name": "collision_2",
+          "properties": [],
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 16,
+          "x": 32,
+          "y": 0
+        },
+        {
+          "height": 16,
+          "id": 0,
+          "name": "collision_3",
+          "properties": [],
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 16,
+          "x": 48,
+          "y": 0
+        },
+        {
+          "height": 16,
+          "id": 0,
+          "name": "collision_4",
+          "properties": [],
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 16,
+          "x": 64,
+          "y": 0
+        },
+        {
+          "height": 16,
+          "id": 0,
+          "name": "collision_5",
+          "properties": [],
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 16,
+          "x": 80,
+          "y": 0
+        },
+        {
+          "height": 16,
+          "id": 0,
+          "name": "collision_6",
+          "properties": [],
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 16,
+          "x": 96,
+          "y": 0
+        },
+        {
+          "height": 16,
+          "id": 0,
+          "name": "collision_7",
+          "properties": [],
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 16,
+          "x": 112,
+          "y": 0
+        },
+        {
+          "height": 16,
+          "id": 0,
+          "name": "collision_8",
+          "properties": [],
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 16,
+          "x": 128,
+          "y": 0
+        },
+        {
+          "height": 16,
+          "id": 0,
+          "name": "collision_9",
+          "properties": [],
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 16,
+          "x": 144,
+          "y": 0
+        },
+        {
+          "height": 16,
+          "id": 0,
+          "name": "collision_10",
+          "properties": [],
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 16,
+          "x": 160,
+          "y": 0
+        },
+        {
+          "height": 16,
+          "id": 0,
+          "name": "collision_11",
+          "properties": [],
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 16,
+          "x": 176,
+          "y": 0
+        },
+        {
+          "height": 16,
+          "id": 0,
+          "name": "collision_12",
+          "properties": [],
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 16,
+          "x": 0,
+          "y": 16
+        },
+        {
+          "height": 16,
+          "id": 0,
+          "name": "collision_13",
+          "properties": [],
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 16,
+          "x": 16,
+          "y": 16
+        },
+        {
+          "height": 16,
+          "id": 0,
+          "name": "collision_14",
+          "properties": [],
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 16,
+          "x": 32,
+          "y": 16
+        },
+        {
+          "height": 16,
+          "id": 0,
+          "name": "collision_15",
+          "properties": [],
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 16,
+          "x": 48,
+          "y": 16
+        },
+        {
+          "height": 16,
+          "id": 0,
+          "name": "collision_16",
+          "properties": [],
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 16,
+          "x": 64,
+          "y": 16
+        },
+        {
+          "height": 16,
+          "id": 0,
+          "name": "collision_17",
+          "properties": [],
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 16,
+          "x": 80,
+          "y": 16
+        },
+        {
+          "height": 16,
+          "id": 0,
+          "name": "collision_20",
+          "properties": [],
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 16,
+          "x": 128,
+          "y": 16
+        },
+        {
+          "height": 16,
+          "id": 0,
+          "name": "collision_21",
+          "properties": [],
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 16,
+          "x": 144,
+          "y": 16
+        },
+        {
+          "height": 16,
+          "id": 0,
+          "name": "collision_22",
+          "properties": [],
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 16,
+          "x": 160,
+          "y": 16
+        },
+        {
+          "height": 16,
+          "id": 0,
+          "name": "collision_23",
+          "properties": [],
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 16,
+          "x": 176,
+          "y": 16
+        },
+        {
+          "height": 16,
+          "id": 0,
+          "name": "collision_24",
+          "properties": [],
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 16,
+          "x": 0,
+          "y": 32
+        },
+        {
+          "height": 16,
+          "id": 0,
+          "name": "collision_25",
+          "properties": [],
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 16,
+          "x": 16,
+          "y": 32
+        },
+        {
+          "height": 16,
+          "id": 0,
+          "name": "collision_26",
+          "properties": [],
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 16,
+          "x": 32,
+          "y": 32
+        },
+        {
+          "height": 16,
+          "id": 0,
+          "name": "collision_27",
+          "properties": [],
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 16,
+          "x": 48,
+          "y": 32
+        },
+        {
+          "height": 16,
+          "id": 0,
+          "name": "collision_32",
+          "properties": [],
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 16,
+          "x": 128,
+          "y": 32
+        },
+        {
+          "height": 16,
+          "id": 0,
+          "name": "collision_33",
+          "properties": [],
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 16,
+          "x": 144,
+          "y": 32
+        },
+        {
+          "height": 16,
+          "id": 0,
+          "name": "collision_34",
+          "properties": [],
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 16,
+          "x": 160,
+          "y": 32
+        },
+        {
+          "height": 16,
+          "id": 0,
+          "name": "collision_35",
+          "properties": [],
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 16,
+          "x": 176,
+          "y": 32
+        },
+        {
+          "height": 16,
+          "id": 0,
+          "name": "collision_36",
+          "properties": [],
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 16,
+          "x": 0,
+          "y": 48
+        },
+        {
+          "height": 16,
+          "id": 0,
+          "name": "collision_47",
+          "properties": [],
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 16,
+          "x": 176,
+          "y": 48
+        },
+        {
+          "height": 16,
+          "id": 0,
+          "name": "collision_48",
+          "properties": [],
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 16,
+          "x": 0,
+          "y": 64
+        },
+        {
+          "height": 16,
+          "id": 0,
+          "name": "collision_59",
+          "properties": [],
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 16,
+          "x": 176,
+          "y": 64
+        },
+        {
+          "height": 16,
+          "id": 0,
+          "name": "collision_60",
+          "properties": [],
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 16,
+          "x": 0,
+          "y": 80
+        },
+        {
+          "height": 16,
+          "id": 0,
+          "name": "collision_71",
+          "properties": [],
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 16,
+          "x": 176,
+          "y": 80
+        },
+        {
+          "height": 16,
+          "id": 0,
+          "name": "collision_72",
+          "properties": [],
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 16,
+          "x": 0,
+          "y": 96
+        },
+        {
+          "height": 16,
+          "id": 0,
+          "name": "collision_83",
+          "properties": [],
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 16,
+          "x": 176,
+          "y": 96
+        },
+        {
+          "height": 16,
+          "id": 0,
+          "name": "collision_84",
+          "properties": [],
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 16,
+          "x": 0,
+          "y": 112
+        },
+        {
+          "height": 16,
+          "id": 0,
+          "name": "collision_95",
+          "properties": [],
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 16,
+          "x": 176,
+          "y": 112
+        },
+        {
+          "height": 16,
+          "id": 0,
+          "name": "collision_96",
+          "properties": [],
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 16,
+          "x": 0,
+          "y": 128
+        },
+        {
+          "height": 16,
+          "id": 0,
+          "name": "collision_97",
+          "properties": [],
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 16,
+          "x": 16,
+          "y": 128
+        },
+        {
+          "height": 16,
+          "id": 0,
+          "name": "collision_98",
+          "properties": [],
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 16,
+          "x": 32,
+          "y": 128
+        },
+        {
+          "height": 16,
+          "id": 0,
+          "name": "collision_99",
+          "properties": [],
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 16,
+          "x": 48,
+          "y": 128
+        },
+        {
+          "height": 16,
+          "id": 0,
+          "name": "collision_100",
+          "properties": [],
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 16,
+          "x": 64,
+          "y": 128
+        },
+        {
+          "height": 16,
+          "id": 0,
+          "name": "collision_101",
+          "properties": [],
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 16,
+          "x": 80,
+          "y": 128
+        },
+        {
+          "height": 16,
+          "id": 0,
+          "name": "collision_102",
+          "properties": [],
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 16,
+          "x": 96,
+          "y": 128
+        },
+        {
+          "height": 16,
+          "id": 0,
+          "name": "collision_103",
+          "properties": [],
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 16,
+          "x": 112,
+          "y": 128
+        },
+        {
+          "height": 16,
+          "id": 0,
+          "name": "collision_104",
+          "properties": [],
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 16,
+          "x": 128,
+          "y": 128
+        },
+        {
+          "height": 16,
+          "id": 0,
+          "name": "collision_105",
+          "properties": [],
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 16,
+          "x": 144,
+          "y": 128
+        },
+        {
+          "height": 16,
+          "id": 0,
+          "name": "collision_106",
+          "properties": [],
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 16,
+          "x": 160,
+          "y": 128
+        },
+        {
+          "height": 16,
+          "id": 0,
+          "name": "collision_107",
+          "properties": [],
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 16,
+          "x": 176,
+          "y": 128
+        }
+      ],
+      "opacity": 1,
+      "type": "objectgroup",
+      "visible": true,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "draworder": "topdown",
+      "id": 0,
+      "name": "warps",
+      "objects": [
+        {
+          "height": 16,
+          "id": 0,
+          "name": "warp_0",
+          "properties": [
+            {
+              "name": "target_map",
+              "type": "string",
+              "value": "house_downstairs"
+            },
+            {
+              "name": "target_spawn",
+              "type": "string",
+              "value": "stairs"
+            },
+            {
+              "name": "facing",
+              "type": "string",
+              "value": "down"
+            },
+            {
+              "name": "blockedUntilFlag",
+              "type": "string",
+              "value": ""
+            },
+            {
+              "name": "blockedText",
+              "type": "string",
+              "value": ""
+            }
+          ],
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 16,
+          "x": 80,
+          "y": 112
+        },
+        {
+          "height": 16,
+          "id": 0,
+          "name": "warp_1",
+          "properties": [
+            {
+              "name": "target_map",
+              "type": "string",
+              "value": "house_downstairs"
+            },
+            {
+              "name": "target_spawn",
+              "type": "string",
+              "value": "stairs"
+            },
+            {
+              "name": "facing",
+              "type": "string",
+              "value": "down"
+            },
+            {
+              "name": "blockedUntilFlag",
+              "type": "string",
+              "value": ""
+            },
+            {
+              "name": "blockedText",
+              "type": "string",
+              "value": ""
+            }
+          ],
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 16,
+          "x": 160,
+          "y": 112
+        }
+      ],
+      "opacity": 1,
+      "type": "objectgroup",
+      "visible": true,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "draworder": "topdown",
+      "id": 0,
+      "name": "npcs",
+      "objects": [],
+      "opacity": 1,
+      "type": "objectgroup",
+      "visible": true,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "draworder": "topdown",
+      "id": 0,
+      "name": "props",
+      "objects": [
+        {
+          "height": 16,
+          "id": 0,
+          "name": "bed",
+          "properties": [
+            {
+              "name": "id",
+              "type": "string",
+              "value": "bed"
+            },
+            {
+              "name": "sprite_key",
+              "type": "string",
+              "value": "prop_bed"
+            },
+            {
+              "name": "depth",
+              "type": "int",
+              "value": 6
+            },
+            {
+              "name": "dialogue_id",
+              "type": "string",
+              "value": "bedroom_bed"
+            },
+            {
+              "name": "interact_tiles",
+              "type": "string",
+              "value": "[{\"x\":1,\"y\":2},{\"x\":2,\"y\":2},{\"x\":3,\"y\":2}]"
+            }
+          ],
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 16,
+          "x": 16,
+          "y": 16
+        },
+        {
+          "height": 16,
+          "id": 0,
+          "name": "desk",
+          "properties": [
+            {
+              "name": "id",
+              "type": "string",
+              "value": "desk"
+            },
+            {
+              "name": "sprite_key",
+              "type": "string",
+              "value": "prop_desk"
+            },
+            {
+              "name": "depth",
+              "type": "int",
+              "value": 6
+            },
+            {
+              "name": "dialogue_id",
+              "type": "string",
+              "value": "bedroom_desk"
+            },
+            {
+              "name": "interact_tiles",
+              "type": "string",
+              "value": "[{\"x\":8,\"y\":1},{\"x\":9,\"y\":1}]"
+            }
+          ],
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 16,
+          "x": 128,
+          "y": 16
+        },
+        {
+          "height": 16,
+          "id": 0,
+          "name": "computer",
+          "properties": [
+            {
+              "name": "id",
+              "type": "string",
+              "value": "computer"
+            },
+            {
+              "name": "sprite_key",
+              "type": "string",
+              "value": "prop_computer"
+            },
+            {
+              "name": "depth",
+              "type": "int",
+              "value": 7
+            },
+            {
+              "name": "dialogue_id",
+              "type": "string",
+              "value": "player_pc"
+            },
+            {
+              "name": "interact_tiles",
+              "type": "string",
+              "value": "[{\"x\":9,\"y\":2},{\"x\":10,\"y\":2}]"
+            }
+          ],
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 16,
+          "x": 144,
+          "y": 16
+        },
+        {
+          "height": 16,
+          "id": 0,
+          "name": "desk_chair",
+          "properties": [
+            {
+              "name": "id",
+              "type": "string",
+              "value": "desk_chair"
+            },
+            {
+              "name": "sprite_key",
+              "type": "string",
+              "value": "prop_chair"
+            },
+            {
+              "name": "depth",
+              "type": "int",
+              "value": 6
+            },
+            {
+              "name": "dialogue_id",
+              "type": "string",
+              "value": ""
+            },
+            {
+              "name": "interact_tiles",
+              "type": "string",
+              "value": ""
+            }
+          ],
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 16,
+          "x": 128,
+          "y": 32
+        },
+        {
+          "height": 16,
+          "id": 0,
+          "name": "dresser",
+          "properties": [
+            {
+              "name": "id",
+              "type": "string",
+              "value": "dresser"
+            },
+            {
+              "name": "sprite_key",
+              "type": "string",
+              "value": "prop_dresser"
+            },
+            {
+              "name": "depth",
+              "type": "int",
+              "value": 6
+            },
+            {
+              "name": "dialogue_id",
+              "type": "string",
+              "value": "bedroom_dresser"
+            },
+            {
+              "name": "interact_tiles",
+              "type": "string",
+              "value": "[{\"x\":4,\"y\":1},{\"x\":5,\"y\":1}]"
+            }
+          ],
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 16,
+          "x": 64,
+          "y": 16
+        },
+        {
+          "height": 16,
+          "id": 0,
+          "name": "bookshelf",
+          "properties": [
+            {
+              "name": "id",
+              "type": "string",
+              "value": "bookshelf"
+            },
+            {
+              "name": "sprite_key",
+              "type": "string",
+              "value": "prop_bookshelf"
+            },
+            {
+              "name": "depth",
+              "type": "int",
+              "value": 6
+            },
+            {
+              "name": "dialogue_id",
+              "type": "string",
+              "value": "bedroom_bookshelf"
+            },
+            {
+              "name": "interact_tiles",
+              "type": "string",
+              "value": "[{\"x\":10,\"y\":3},{\"x\":11,\"y\":2}]"
+            }
+          ],
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 16,
+          "x": 160,
+          "y": 16
+        },
+        {
+          "height": 16,
+          "id": 0,
+          "name": "rug",
+          "properties": [
+            {
+              "name": "id",
+              "type": "string",
+              "value": "rug"
+            },
+            {
+              "name": "sprite_key",
+              "type": "string",
+              "value": "prop_rug_blue"
+            },
+            {
+              "name": "depth",
+              "type": "int",
+              "value": 1
+            },
+            {
+              "name": "dialogue_id",
+              "type": "string",
+              "value": ""
+            },
+            {
+              "name": "interact_tiles",
+              "type": "string",
+              "value": ""
+            }
+          ],
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 16,
+          "x": 64,
+          "y": 80
+        },
+        {
+          "height": 16,
+          "id": 0,
+          "name": "stairs_main",
+          "properties": [
+            {
+              "name": "id",
+              "type": "string",
+              "value": "stairs_main"
+            },
+            {
+              "name": "sprite_key",
+              "type": "string",
+              "value": "prop_stairs_down"
+            },
+            {
+              "name": "depth",
+              "type": "int",
+              "value": 5
+            },
+            {
+              "name": "dialogue_id",
+              "type": "string",
+              "value": "stairs_down"
+            },
+            {
+              "name": "interact_tiles",
+              "type": "string",
+              "value": "[{\"x\":5,\"y\":6}]"
+            }
+          ],
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 16,
+          "x": 80,
+          "y": 112
+        },
+        {
+          "height": 16,
+          "id": 0,
+          "name": "stairs_corner",
+          "properties": [
+            {
+              "name": "id",
+              "type": "string",
+              "value": "stairs_corner"
+            },
+            {
+              "name": "sprite_key",
+              "type": "string",
+              "value": "prop_stairs_down"
+            },
+            {
+              "name": "depth",
+              "type": "int",
+              "value": 5
+            },
+            {
+              "name": "dialogue_id",
+              "type": "string",
+              "value": "stairs_down"
+            },
+            {
+              "name": "interact_tiles",
+              "type": "string",
+              "value": "[{\"x\":10,\"y\":6}]"
+            }
+          ],
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 16,
+          "x": 160,
+          "y": 112
+        },
+        {
+          "height": 16,
+          "id": 0,
+          "name": "stairs_glow",
+          "properties": [
+            {
+              "name": "id",
+              "type": "string",
+              "value": "stairs_glow"
+            },
+            {
+              "name": "sprite_key",
+              "type": "string",
+              "value": "prop_door_highlight"
+            },
+            {
+              "name": "depth",
+              "type": "int",
+              "value": 6
+            },
+            {
+              "name": "dialogue_id",
+              "type": "string",
+              "value": ""
+            },
+            {
+              "name": "interact_tiles",
+              "type": "string",
+              "value": ""
+            }
+          ],
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 16,
+          "x": 80,
+          "y": 112
+        }
+      ],
+      "opacity": 1,
+      "type": "objectgroup",
+      "visible": true,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "draworder": "topdown",
+      "id": 0,
+      "name": "encounter_zones",
+      "objects": [],
+      "opacity": 1,
+      "type": "objectgroup",
+      "visible": true,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "draworder": "topdown",
+      "id": 0,
+      "name": "spawn_points",
+      "objects": [
+        {
+          "height": 16,
+          "id": 0,
+          "name": "start",
+          "properties": [
+            {
+              "name": "name",
+              "type": "string",
+              "value": "start"
+            },
+            {
+              "name": "facing",
+              "type": "string",
+              "value": "down"
+            }
+          ],
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 16,
+          "x": 80,
+          "y": 96
+        }
+      ],
+      "opacity": 1,
+      "type": "objectgroup",
+      "visible": true,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "draworder": "topdown",
+      "id": 0,
+      "name": "script_triggers",
+      "objects": [],
+      "opacity": 1,
+      "type": "objectgroup",
+      "visible": true,
+      "x": 0,
+      "y": 0
+    }
+  ],
+  "nextlayerid": 10,
+  "nextobjectid": 1,
+  "orientation": "orthogonal",
+  "renderorder": "right-down",
+  "tiledversion": "1.10.2",
+  "tileheight": 16,
+  "tilesets": [
+    {
+      "firstgid": 1,
+      "source": "../tilesets/placeholder.tsx"
+    }
+  ],
+  "tilewidth": 16,
+  "type": "map",
+  "version": "1.10",
+  "width": 12
+}

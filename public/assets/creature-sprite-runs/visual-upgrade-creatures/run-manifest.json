@@ -1,0 +1,95 @@
+{
+  "reference": {
+    "source_type": "prompted_imagegen",
+    "source": "public/assets/creature-sprite-runs/visual-upgrade-creatures/source/imagegen-creatures-front-back.png",
+    "used_for_generation": true,
+    "identity_notes": [
+      "Sproutle: grass quadruped seedling guardian with leafy crest and fronds",
+      "Kindlett: ember salamander/fox-lizard with angular body and tail flame",
+      "Shelldrop: water turtle/otter with domed plated shell and flippers",
+      "Nibwing: crested bird with broad feathered wings and talons",
+      "Nibblit: long-eared burrower with wedge body and curled tail"
+    ]
+  },
+  "scope": {
+    "sizes": [
+      64
+    ],
+    "actions": [
+      "battle_idle"
+    ],
+    "directions": [
+      "front",
+      "back"
+    ],
+    "frames": 2
+  },
+  "generation": {
+    "method": "imagegen",
+    "imagegen_output_path": "/Users/kayvaneshakerifar/.codex/generated_images/019e1604-2b19-76f3-9ddd-13e11e5369fa/ig_00cd0c81f15912d9016a0199b0afe4819199cfa4814424525b.png",
+    "procedural": false,
+    "text_only": false
+  },
+  "sheets": [
+    {
+      "creature": "sproutle",
+      "file": "public/assets/visual_upgrade/creatures/tuxemon_shybulb_sheet.png",
+      "run_file": "public/assets/creature-sprite-runs/visual-upgrade-creatures/64/final/sproutle-battle-sheet-clean.png",
+      "source": "public/assets/creature-sprite-runs/visual-upgrade-creatures/source/imagegen-creatures-front-back.png",
+      "cell": 64,
+      "columns": [
+        "front",
+        "back"
+      ],
+      "method": "imagegen"
+    },
+    {
+      "creature": "kindlett",
+      "file": "public/assets/visual_upgrade/creatures/tuxemon_knindling_sheet.png",
+      "run_file": "public/assets/creature-sprite-runs/visual-upgrade-creatures/64/final/kindlett-battle-sheet-clean.png",
+      "source": "public/assets/creature-sprite-runs/visual-upgrade-creatures/source/imagegen-creatures-front-back.png",
+      "cell": 64,
+      "columns": [
+        "front",
+        "back"
+      ],
+      "method": "imagegen"
+    },
+    {
+      "creature": "shelldrop",
+      "file": "public/assets/visual_upgrade/creatures/tuxemon_forturtle_sheet.png",
+      "run_file": "public/assets/creature-sprite-runs/visual-upgrade-creatures/64/final/shelldrop-battle-sheet-clean.png",
+      "source": "public/assets/creature-sprite-runs/visual-upgrade-creatures/source/imagegen-creatures-front-back.png",
+      "cell": 64,
+      "columns": [
+        "front",
+        "back"
+      ],
+      "method": "imagegen"
+    },
+    {
+      "creature": "nibwing",
+      "file": "public/assets/visual_upgrade/creatures/tuxemon_birdee_sheet.png",
+      "run_file": "public/assets/creature-sprite-runs/visual-upgrade-creatures/64/final/nibwing-battle-sheet-clean.png",
+      "source": "public/assets/creature-sprite-runs/visual-upgrade-creatures/source/imagegen-creatures-front-back.png",
+      "cell": 64,
+      "columns": [
+        "front",
+        "back"
+      ],
+      "method": "imagegen"
+    },
+    {
+      "creature": "nibblit",
+      "file": "public/assets/visual_upgrade/creatures/tuxemon_squabbit_sheet.png",
+      "run_file": "public/assets/creature-sprite-runs/visual-upgrade-creatures/64/final/nibblit-battle-sheet-clean.png",
+      "source": "public/assets/creature-sprite-runs/visual-upgrade-creatures/source/imagegen-creatures-front-back.png",
+      "cell": 64,
+      "columns": [
+        "front",
+        "back"
+      ],
+      "method": "imagegen"
+    }
+  ]
+}

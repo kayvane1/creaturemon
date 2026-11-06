@@ -1,0 +1,97 @@
+{
+  "reference": {
+    "source_type": "file",
+    "source": "source/mom-imagegen-grid.png",
+    "used_for_generation": true,
+    "identity_notes": [
+      "mom cardigan",
+      "professor lab coat",
+      "rival red jacket",
+      "casual adult townie",
+      "kid/student",
+      "outdoorsy trainer"
+    ]
+  },
+  "scope": {
+    "sizes": [
+      64
+    ],
+    "actions": [
+      "walk"
+    ],
+    "directions": [
+      "south",
+      "west",
+      "east",
+      "north"
+    ],
+    "frames": 6,
+    "characters": [
+      "mom",
+      "professor",
+      "rival",
+      "townie_adult",
+      "townie_kid",
+      "townie_trainer"
+    ]
+  },
+  "generation": {
+    "method": "imagegen",
+    "procedural": false,
+    "text_only": false,
+    "processed_from_high_resolution_imagegen_grids": true
+  },
+  "sheets": [
+    {
+      "character": "mom",
+      "method": "imagegen",
+      "source_path": "source/mom-imagegen-grid.png",
+      "final_path": "../../sprites/characters/upgraded/mom_walk.png",
+      "validation_path": "64/qa/mom/validation.json",
+      "motion_audit_path": "64/qa/mom/motion-audit.json"
+    },
+    {
+      "character": "professor",
+      "method": "imagegen",
+      "source_path": "source/professor-imagegen-grid.png",
+      "final_path": "../../sprites/characters/upgraded/professor_walk.png",
+      "validation_path": "64/qa/professor/validation.json",
+      "motion_audit_path": "64/qa/professor/motion-audit.json"
+    },
+    {
+      "character": "rival",
+      "method": "imagegen",
+      "source_path": "source/rival-imagegen-grid.png",
+      "final_path": "../../sprites/characters/upgraded/rival_walk.png",
+      "validation_path": "64/qa/rival/validation.json",
+      "motion_audit_path": "64/qa/rival/motion-audit.json"
+    },
+    {
+      "character": "townie_adult",
+      "method": "imagegen",
+      "source_path": "source/townie_adult-imagegen-grid.png",
+      "final_path": "../../sprites/characters/upgraded/townie_adult_walk.png",
+      "validation_path": "64/qa/townie_adult/validation.json",
+      "motion_audit_path": "64/qa/townie_adult/motion-audit.json"
+    },
+    {
+      "character": "townie_kid",
+      "method": "imagegen",
+      "source_path": "source/townie_kid-imagegen-grid.png",
+      "final_path": "../../sprites/characters/upgraded/townie_kid_walk.png",
+      "validation_path": "64/qa/townie_kid/validation.json",
+      "motion_audit_path": "64/qa/townie_kid/motion-audit.json"
+    },
+    {
+      "character": "townie_trainer",
+      "method": "imagegen",
+      "source_path": "source/townie_trainer-imagegen-grid.png",
+      "final_path": "../../sprites/characters/upgraded/townie_trainer_walk.png",
+      "validation_path": "64/qa/townie_trainer/validation.json",
+      "motion_audit_path": "64/qa/townie_trainer/motion-audit.json"
+    }
+  ],
+  "visual_review": {
+    "path": "64/qa/visual-review.json"
+  }
+}

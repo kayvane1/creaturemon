@@ -1,0 +1,9 @@
+Create a high-fidelity 64x64 pixel-art RPG battle creature sprite sheet with exactly two cells in one row: left cell is front-facing battle pose, right cell is back-facing player-side pose. Transparent background. No text, no labels, no grid, no UI.
+
+Creature: Kindlett, a fire starter. Do not make it a circular blob. Design it as a compact ember salamander/fox-lizard with a triangular snout, arched back, small clawed feet, swept cheek fins, and a tail flame shaped like a candle flame. It should feel agile and mischievous, not bulky. The silhouette should be instantly recognizable at 64px: long tapering body, angular head, small forelimbs, raised flaming tail, and a little ember crest on the brow.
+
+Style target: premium hand-authored pixel art like a polished indie monster-catching RPG. Use crisp 1-2px dark outline, readable clusters, sub-pixel detail only where it helps, rich but limited palette, soft internal shading, no anti-aliased blur. Match the quality and density of a high-quality generated 64px character sprite strip.
+
+Palette: saturated orange body, red-orange shadow belly plates, golden highlights, dark warm outline, bright yellow-white flame core with red outer flame. The front pose should show expressive eyes and a small determined mouth. The back pose should preserve the same angular body and especially the raised flame tail from behind.
+
+Canvas contract: exactly 128x64 image, two 64x64 cells, front sprite centered in left cell, back sprite centered in right cell, full creature fits inside each cell with 4px breathing room, transparent background.

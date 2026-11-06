@@ -1,0 +1,398 @@
+{
+  "ok": true,
+  "file": "/Users/kayvaneshakerifar/creaturemon/public/assets/sprites/characters/upgraded/townie_trainer_walk.png",
+  "width": 384,
+  "height": 256,
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "row": 0,
+      "row_name": "south",
+      "cells": [
+        {
+          "row": 0,
+          "row_name": "south",
+          "column": 0,
+          "nontransparent_pixels": 855,
+          "edge_pixels": 0,
+          "chroma_residue_pixels": 0,
+          "bbox": [
+            20,
+            12,
+            44,
+            61
+          ]
+        },
+        {
+          "row": 0,
+          "row_name": "south",
+          "column": 1,
+          "nontransparent_pixels": 862,
+          "edge_pixels": 0,
+          "chroma_residue_pixels": 0,
+          "bbox": [
+            20,
+            12,
+            45,
+            61
+          ]
+        },
+        {
+          "row": 0,
+          "row_name": "south",
+          "column": 2,
+          "nontransparent_pixels": 841,
+          "edge_pixels": 0,
+          "chroma_residue_pixels": 0,
+          "bbox": [
+            19,
+            12,
+            46,
+            61
+          ]
+        },
+        {
+          "row": 0,
+          "row_name": "south",
+          "column": 3,
+          "nontransparent_pixels": 882,
+          "edge_pixels": 0,
+          "chroma_residue_pixels": 0,
+          "bbox": [
+            19,
+            12,
+            46,
+            61
+          ]
+        },
+        {
+          "row": 0,
+          "row_name": "south",
+          "column": 4,
+          "nontransparent_pixels": 869,
+          "edge_pixels": 0,
+          "chroma_residue_pixels": 0,
+          "bbox": [
+            20,
+            12,
+            45,
+            61
+          ]
+        },
+        {
+          "row": 0,
+          "row_name": "south",
+          "column": 5,
+          "nontransparent_pixels": 868,
+          "edge_pixels": 0,
+          "chroma_residue_pixels": 0,
+          "bbox": [
+            20,
+            12,
+            45,
+            61
+          ]
+        }
+      ],
+      "frame_diffs": [
+        0.03196,
+        0.03824,
+        0.02762,
+        0.03513,
+        0.02118
+      ]
+    },
+    {
+      "row": 1,
+      "row_name": "west",
+      "cells": [
+        {
+          "row": 1,
+          "row_name": "west",
+          "column": 0,
+          "nontransparent_pixels": 586,
+          "edge_pixels": 0,
+          "chroma_residue_pixels": 0,
+          "bbox": [
+            22,
+            12,
+            43,
+            52
+          ]
+        },
+        {
+          "row": 1,
+          "row_name": "west",
+          "column": 1,
+          "nontransparent_pixels": 599,
+          "edge_pixels": 0,
+          "chroma_residue_pixels": 0,
+          "bbox": [
+            22,
+            12,
+            43,
+            52
+          ]
+        },
+        {
+          "row": 1,
+          "row_name": "west",
+          "column": 2,
+          "nontransparent_pixels": 588,
+          "edge_pixels": 0,
+          "chroma_residue_pixels": 0,
+          "bbox": [
+            22,
+            12,
+            43,
+            52
+          ]
+        },
+        {
+          "row": 1,
+          "row_name": "west",
+          "column": 3,
+          "nontransparent_pixels": 603,
+          "edge_pixels": 0,
+          "chroma_residue_pixels": 0,
+          "bbox": [
+            22,
+            12,
+            43,
+            52
+          ]
+        },
+        {
+          "row": 1,
+          "row_name": "west",
+          "column": 4,
+          "nontransparent_pixels": 567,
+          "edge_pixels": 0,
+          "chroma_residue_pixels": 0,
+          "bbox": [
+            22,
+            12,
+            43,
+            52
+          ]
+        },
+        {
+          "row": 1,
+          "row_name": "west",
+          "column": 5,
+          "nontransparent_pixels": 570,
+          "edge_pixels": 0,
+          "chroma_residue_pixels": 0,
+          "bbox": [
+            22,
+            12,
+            42,
+            52
+          ]
+        }
+      ],
+      "frame_diffs": [
+        0.01194,
+        0.01886,
+        0.01677,
+        0.01861,
+        0.01865
+      ]
+    },
+    {
+      "row": 2,
+      "row_name": "east",
+      "cells": [
+        {
+          "row": 2,
+          "row_name": "east",
+          "column": 0,
+          "nontransparent_pixels": 588,
+          "edge_pixels": 0,
+          "chroma_residue_pixels": 0,
+          "bbox": [
+            22,
+            11,
+            42,
+            61
+          ]
+        },
+        {
+          "row": 2,
+          "row_name": "east",
+          "column": 1,
+          "nontransparent_pixels": 605,
+          "edge_pixels": 0,
+          "chroma_residue_pixels": 0,
+          "bbox": [
+            22,
+            11,
+            42,
+            61
+          ]
+        },
+        {
+          "row": 2,
+          "row_name": "east",
+          "column": 2,
+          "nontransparent_pixels": 602,
+          "edge_pixels": 0,
+          "chroma_residue_pixels": 0,
+          "bbox": [
+            22,
+            11,
+            42,
+            61
+          ]
+        },
+        {
+          "row": 2,
+          "row_name": "east",
+          "column": 3,
+          "nontransparent_pixels": 604,
+          "edge_pixels": 0,
+          "chroma_residue_pixels": 0,
+          "bbox": [
+            22,
+            11,
+            42,
+            61
+          ]
+        },
+        {
+          "row": 2,
+          "row_name": "east",
+          "column": 4,
+          "nontransparent_pixels": 579,
+          "edge_pixels": 0,
+          "chroma_residue_pixels": 0,
+          "bbox": [
+            22,
+            11,
+            42,
+            61
+          ]
+        },
+        {
+          "row": 2,
+          "row_name": "east",
+          "column": 5,
+          "nontransparent_pixels": 580,
+          "edge_pixels": 0,
+          "chroma_residue_pixels": 0,
+          "bbox": [
+            22,
+            11,
+            42,
+            61
+          ]
+        }
+      ],
+      "frame_diffs": [
+        0.01294,
+        0.01423,
+        0.01002,
+        0.01614,
+        0.01244
+      ]
+    },
+    {
+      "row": 3,
+      "row_name": "north",
+      "cells": [
+        {
+          "row": 3,
+          "row_name": "north",
+          "column": 0,
+          "nontransparent_pixels": 1056,
+          "edge_pixels": 0,
+          "chroma_residue_pixels": 0,
+          "bbox": [
+            18,
+            11,
+            47,
+            61
+          ]
+        },
+        {
+          "row": 3,
+          "row_name": "north",
+          "column": 1,
+          "nontransparent_pixels": 1074,
+          "edge_pixels": 0,
+          "chroma_residue_pixels": 0,
+          "bbox": [
+            17,
+            11,
+            47,
+            61
+          ]
+        },
+        {
+          "row": 3,
+          "row_name": "north",
+          "column": 2,
+          "nontransparent_pixels": 1072,
+          "edge_pixels": 0,
+          "chroma_residue_pixels": 0,
+          "bbox": [
+            17,
+            11,
+            48,
+            61
+          ]
+        },
+        {
+          "row": 3,
+          "row_name": "north",
+          "column": 3,
+          "nontransparent_pixels": 1037,
+          "edge_pixels": 0,
+          "chroma_residue_pixels": 0,
+          "bbox": [
+            17,
+            11,
+            47,
+            61
+          ]
+        },
+        {
+          "row": 3,
+          "row_name": "north",
+          "column": 4,
+          "nontransparent_pixels": 1065,
+          "edge_pixels": 0,
+          "chroma_residue_pixels": 0,
+          "bbox": [
+            18,
+            11,
+            47,
+            61
+          ]
+        },
+        {
+          "row": 3,
+          "row_name": "north",
+          "column": 5,
+          "nontransparent_pixels": 1051,
+          "edge_pixels": 0,
+          "chroma_residue_pixels": 0,
+          "bbox": [
+            18,
+            11,
+            46,
+            61
+          ]
+        }
+      ],
+      "frame_diffs": [
+        0.03167,
+        0.02975,
+        0.03282,
+        0.03272,
+        0.023
+      ]
+    }
+  ]
+}

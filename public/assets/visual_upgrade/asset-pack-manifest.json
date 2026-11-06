@@ -1,0 +1,22 @@
+{
+  "name": "creaturemon visual upgrade pack",
+  "style": "cohesive top-down retro monster-catching RPG pixel art",
+  "generated_at": "2026-05-11T09:02:02.425Z",
+  "runtime_only": true,
+  "creature_sheet": {
+    "cell": 64,
+    "columns": [
+      "front",
+      "back"
+    ],
+    "note": "Runtime Creaturemon battlers only; upgraded overworld characters live in public/assets/sprites/characters/upgraded."
+  },
+  "directories": [
+    "creatures",
+    "tiles",
+    "props",
+    "ui",
+    "effects",
+    "battle"
+  ]
+}

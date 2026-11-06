@@ -1,0 +1,398 @@
+{
+  "ok": true,
+  "file": "/Users/kayvaneshakerifar/creaturemon/public/assets/sprites/characters/upgraded/professor_walk.png",
+  "width": 384,
+  "height": 256,
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "row": 0,
+      "row_name": "south",
+      "cells": [
+        {
+          "row": 0,
+          "row_name": "south",
+          "column": 0,
+          "nontransparent_pixels": 949,
+          "edge_pixels": 0,
+          "chroma_residue_pixels": 0,
+          "bbox": [
+            19,
+            12,
+            45,
+            61
+          ]
+        },
+        {
+          "row": 0,
+          "row_name": "south",
+          "column": 1,
+          "nontransparent_pixels": 978,
+          "edge_pixels": 0,
+          "chroma_residue_pixels": 0,
+          "bbox": [
+            19,
+            12,
+            46,
+            61
+          ]
+        },
+        {
+          "row": 0,
+          "row_name": "south",
+          "column": 2,
+          "nontransparent_pixels": 1033,
+          "edge_pixels": 0,
+          "chroma_residue_pixels": 0,
+          "bbox": [
+            18,
+            12,
+            47,
+            61
+          ]
+        },
+        {
+          "row": 0,
+          "row_name": "south",
+          "column": 3,
+          "nontransparent_pixels": 928,
+          "edge_pixels": 0,
+          "chroma_residue_pixels": 0,
+          "bbox": [
+            19,
+            12,
+            46,
+            61
+          ]
+        },
+        {
+          "row": 0,
+          "row_name": "south",
+          "column": 4,
+          "nontransparent_pixels": 959,
+          "edge_pixels": 0,
+          "chroma_residue_pixels": 0,
+          "bbox": [
+            19,
+            12,
+            45,
+            61
+          ]
+        },
+        {
+          "row": 0,
+          "row_name": "south",
+          "column": 5,
+          "nontransparent_pixels": 935,
+          "edge_pixels": 0,
+          "chroma_residue_pixels": 0,
+          "bbox": [
+            19,
+            12,
+            45,
+            61
+          ]
+        }
+      ],
+      "frame_diffs": [
+        0.03331,
+        0.03451,
+        0.04149,
+        0.05644,
+        0.03162
+      ]
+    },
+    {
+      "row": 1,
+      "row_name": "west",
+      "cells": [
+        {
+          "row": 1,
+          "row_name": "west",
+          "column": 0,
+          "nontransparent_pixels": 589,
+          "edge_pixels": 0,
+          "chroma_residue_pixels": 0,
+          "bbox": [
+            22,
+            12,
+            43,
+            61
+          ]
+        },
+        {
+          "row": 1,
+          "row_name": "west",
+          "column": 1,
+          "nontransparent_pixels": 598,
+          "edge_pixels": 0,
+          "chroma_residue_pixels": 0,
+          "bbox": [
+            22,
+            12,
+            43,
+            61
+          ]
+        },
+        {
+          "row": 1,
+          "row_name": "west",
+          "column": 2,
+          "nontransparent_pixels": 601,
+          "edge_pixels": 0,
+          "chroma_residue_pixels": 0,
+          "bbox": [
+            22,
+            12,
+            43,
+            61
+          ]
+        },
+        {
+          "row": 1,
+          "row_name": "west",
+          "column": 3,
+          "nontransparent_pixels": 600,
+          "edge_pixels": 0,
+          "chroma_residue_pixels": 0,
+          "bbox": [
+            22,
+            12,
+            43,
+            61
+          ]
+        },
+        {
+          "row": 1,
+          "row_name": "west",
+          "column": 4,
+          "nontransparent_pixels": 588,
+          "edge_pixels": 0,
+          "chroma_residue_pixels": 0,
+          "bbox": [
+            22,
+            12,
+            43,
+            61
+          ]
+        },
+        {
+          "row": 1,
+          "row_name": "west",
+          "column": 5,
+          "nontransparent_pixels": 588,
+          "edge_pixels": 0,
+          "chroma_residue_pixels": 0,
+          "bbox": [
+            22,
+            12,
+            43,
+            61
+          ]
+        }
+      ],
+      "frame_diffs": [
+        0.01246,
+        0.01631,
+        0.01817,
+        0.01297,
+        0.01275
+      ]
+    },
+    {
+      "row": 2,
+      "row_name": "east",
+      "cells": [
+        {
+          "row": 2,
+          "row_name": "east",
+          "column": 0,
+          "nontransparent_pixels": 660,
+          "edge_pixels": 0,
+          "chroma_residue_pixels": 0,
+          "bbox": [
+            22,
+            11,
+            43,
+            61
+          ]
+        },
+        {
+          "row": 2,
+          "row_name": "east",
+          "column": 1,
+          "nontransparent_pixels": 657,
+          "edge_pixels": 0,
+          "chroma_residue_pixels": 0,
+          "bbox": [
+            22,
+            11,
+            43,
+            61
+          ]
+        },
+        {
+          "row": 2,
+          "row_name": "east",
+          "column": 2,
+          "nontransparent_pixels": 650,
+          "edge_pixels": 0,
+          "chroma_residue_pixels": 0,
+          "bbox": [
+            22,
+            11,
+            42,
+            61
+          ]
+        },
+        {
+          "row": 2,
+          "row_name": "east",
+          "column": 3,
+          "nontransparent_pixels": 675,
+          "edge_pixels": 0,
+          "chroma_residue_pixels": 0,
+          "bbox": [
+            22,
+            11,
+            43,
+            61
+          ]
+        },
+        {
+          "row": 2,
+          "row_name": "east",
+          "column": 4,
+          "nontransparent_pixels": 666,
+          "edge_pixels": 0,
+          "chroma_residue_pixels": 0,
+          "bbox": [
+            22,
+            11,
+            43,
+            61
+          ]
+        },
+        {
+          "row": 2,
+          "row_name": "east",
+          "column": 5,
+          "nontransparent_pixels": 651,
+          "edge_pixels": 0,
+          "chroma_residue_pixels": 0,
+          "bbox": [
+            22,
+            11,
+            43,
+            61
+          ]
+        }
+      ],
+      "frame_diffs": [
+        0.0125,
+        0.02679,
+        0.02104,
+        0.01907,
+        0.01912
+      ]
+    },
+    {
+      "row": 3,
+      "row_name": "north",
+      "cells": [
+        {
+          "row": 3,
+          "row_name": "north",
+          "column": 0,
+          "nontransparent_pixels": 1388,
+          "edge_pixels": 0,
+          "chroma_residue_pixels": 0,
+          "bbox": [
+            13,
+            11,
+            51,
+            61
+          ]
+        },
+        {
+          "row": 3,
+          "row_name": "north",
+          "column": 1,
+          "nontransparent_pixels": 1391,
+          "edge_pixels": 0,
+          "chroma_residue_pixels": 0,
+          "bbox": [
+            13,
+            11,
+            52,
+            61
+          ]
+        },
+        {
+          "row": 3,
+          "row_name": "north",
+          "column": 2,
+          "nontransparent_pixels": 1374,
+          "edge_pixels": 0,
+          "chroma_residue_pixels": 0,
+          "bbox": [
+            12,
+            11,
+            52,
+            61
+          ]
+        },
+        {
+          "row": 3,
+          "row_name": "north",
+          "column": 3,
+          "nontransparent_pixels": 1416,
+          "edge_pixels": 0,
+          "chroma_residue_pixels": 0,
+          "bbox": [
+            11,
+            11,
+            53,
+            61
+          ]
+        },
+        {
+          "row": 3,
+          "row_name": "north",
+          "column": 4,
+          "nontransparent_pixels": 1402,
+          "edge_pixels": 0,
+          "chroma_residue_pixels": 0,
+          "bbox": [
+            13,
+            11,
+            51,
+            61
+          ]
+        },
+        {
+          "row": 3,
+          "row_name": "north",
+          "column": 5,
+          "nontransparent_pixels": 1399,
+          "edge_pixels": 0,
+          "chroma_residue_pixels": 0,
+          "bbox": [
+            13,
+            11,
+            51,
+            61
+          ]
+        }
+      ],
+      "frame_diffs": [
+        0.03698,
+        0.04334,
+        0.03955,
+        0.03777,
+        0.02951
+      ]
+    }
+  ]
+}

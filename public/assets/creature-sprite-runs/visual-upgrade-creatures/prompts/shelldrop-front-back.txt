@@ -1,0 +1,9 @@
+Create a high-fidelity 64x64 pixel-art RPG battle creature sprite sheet with exactly two cells in one row: left cell is front-facing battle pose, right cell is back-facing player-side pose. Transparent background. No text, no labels, no grid, no UI.
+
+Creature: Shelldrop, a water starter. Do not make it a circular blob. Design it as a baby turtle/otter battler with a domed water-polished shell, little flippers, stout legs, a smooth head, and a small water-drop crest. It should feel sturdy and friendly but ready to battle. The silhouette should be instantly recognizable at 64px: broad shell, protruding head, fin-like arms, short feet, and teardrop crest.
+
+Style target: premium hand-authored pixel art like a polished indie monster-catching RPG. Use crisp 1-2px dark outline, readable clusters, sub-pixel detail only where it helps, rich but limited palette, soft internal shading, no anti-aliased blur. Match the quality and density of a high-quality generated 64px character sprite strip.
+
+Palette: deep blue shell plates, cyan-blue skin, pale aqua highlights, navy shadows, tiny white shine marks on the shell and crest. The front pose should show a rounded face, eyes, and shell plate pattern. The back pose should emphasize the domed shell pattern, flippers, and little tail from behind.
+
+Canvas contract: exactly 128x64 image, two 64x64 cells, front sprite centered in left cell, back sprite centered in right cell, full creature fits inside each cell with 4px breathing room, transparent background.

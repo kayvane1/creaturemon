@@ -1,0 +1,28 @@
+{
+  "name": "pokemon-level-1",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "export:maps": "node scripts/export-maps.mjs",
+    "normalize:sprites": "node scripts/normalize-character-sheets.mjs",
+    "qa:collision": "node scripts/qa-collision.mjs",
+    "qa:sprites": "node scripts/qa-sprite-baselines.mjs",
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit",
+    "check": "npm run typecheck && npm run test && npm run qa:collision && npm run qa:sprites && npm run build",
+    "build": "tsc && vite build",
+    "preview": "vite preview --host 127.0.0.1"
+  },
+  "dependencies": {
+    "phaser": "^3.90.0",
+    "vite": "^5.4.21"
+  },
+  "devDependencies": {
+    "esbuild": "^0.28.0",
+    "pngjs": "^7.0.0",
+    "typescript": "^5.9.3",
+    "vitest": "^4.1.6"
+  }
+}

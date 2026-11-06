@@ -1,0 +1,9 @@
+Create a high-fidelity 64x64 pixel-art RPG battle creature sprite sheet with exactly two cells in one row: left cell is front-facing battle pose, right cell is back-facing player-side pose. Transparent background. No text, no labels, no grid, no UI.
+
+Creature: Sproutle, a grass starter. Do not make it a circular blob. Design it as a small quadruped seedling guardian, somewhere between a fawn, gecko, and sprouting bulb. It has a low athletic body, four short sturdy legs, a pointed leafy head crest, layered leaf ears/fronds, a tiny confident face, and a bulb-like shoulder mantle made of overlapping leaves. The silhouette should be instantly recognizable at 64px: forward-leaning body, leaf crest rising above the head, two side fronds, little paws, and a curved sprout tail.
+
+Style target: premium hand-authored pixel art like a polished indie monster-catching RPG. Use crisp 1-2px dark outline, readable clusters, sub-pixel detail only where it helps, rich but limited palette, soft internal shading, no anti-aliased blur. Match the quality and density of a high-quality generated 64px character sprite strip.
+
+Palette: fresh greens with warm yellow-green highlights, darker forest green shadows, tiny cream flower-bud accents. The front pose should show eyes and face. The back pose should preserve the same leaf crest, body shape, fronds, and sprout tail from behind.
+
+Canvas contract: exactly 128x64 image, two 64x64 cells, front sprite centered in left cell, back sprite centered in right cell, full creature fits inside each cell with 4px breathing room, transparent background.

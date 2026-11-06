@@ -1,0 +1,11 @@
+{
+  "accepted": true,
+  "reviewer_notes": "Accepted for Phaser integration. The sheet is imagegen-sourced, cleaned to transparent 64x64 fixed cells, and readable at overworld scale. South row has a mild weak-motion warning but the player identity, directions, frame separation, and chroma cleanup are usable.",
+  "checks": {
+    "reference_identity": "pass",
+    "direction": "pass",
+    "animation_readable": "pass",
+    "frame_separation": "pass",
+    "not_procedural": "pass"
+  }
+}

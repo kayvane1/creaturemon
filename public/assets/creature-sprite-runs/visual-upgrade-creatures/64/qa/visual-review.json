@@ -1,0 +1,9 @@
+{
+  "accepted": true,
+  "source_quality": "imagegen high-fidelity pixel-art sheet",
+  "notes": [
+    "Replaced procedural blob-like sprites with imagegen-derived high-detail creature battlers.",
+    "All runtime sheets are 128x64 with two 64x64 cells: front and back.",
+    "Checkerboard background from the source image was flood-cleaned into transparency before fitting."
+  ]
+}

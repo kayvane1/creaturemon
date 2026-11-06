@@ -1,0 +1,79 @@
+{
+  "reference": {
+    "source_type": "file",
+    "source": "source/player-walk-south-imagegen.png",
+    "used_for_generation": true,
+    "identity_notes": [
+      "teal hoodie",
+      "no cap",
+      "no gloves",
+      "baggy dark hipster trousers",
+      "small brown shoulder satchel",
+      "top-down overworld RPG scale"
+    ]
+  },
+  "scope": {
+    "sizes": [
+      64
+    ],
+    "actions": [
+      "walk"
+    ],
+    "directions": [
+      "south",
+      "west",
+      "east",
+      "north"
+    ],
+    "frames": 6
+  },
+  "generation": {
+    "method": "imagegen",
+    "imagegen_output_path": "source/player-walk-south-imagegen.png",
+    "procedural": false,
+    "text_only": false,
+    "processed_from_high_resolution_imagegen_strips": true,
+    "imported_contact_sheet": false
+  },
+  "strips": [
+    {
+      "cell": 64,
+      "action": "walk",
+      "direction": "south",
+      "method": "imagegen",
+      "imagegen_output_path": "source/player-walk-south-imagegen.png",
+      "source_path": "64/generated/walk-south.png",
+      "prompt_path": "64/prompts/walk-south.txt"
+    },
+    {
+      "cell": 64,
+      "action": "walk",
+      "direction": "west",
+      "method": "imagegen",
+      "imagegen_output_path": "source/player-walk-left-imagegen.png",
+      "source_path": "64/generated/walk-west.png",
+      "prompt_path": "64/prompts/walk-left.txt"
+    },
+    {
+      "cell": 64,
+      "action": "walk",
+      "direction": "east",
+      "method": "imagegen",
+      "imagegen_output_path": "source/player-walk-right-imagegen.png",
+      "source_path": "64/generated/walk-east.png",
+      "prompt_path": "64/prompts/walk-right.txt"
+    },
+    {
+      "cell": 64,
+      "action": "walk",
+      "direction": "north",
+      "method": "imagegen",
+      "imagegen_output_path": "source/player-walk-up-imagegen.png",
+      "source_path": "64/generated/walk-north.png",
+      "prompt_path": "64/prompts/walk-up.txt"
+    }
+  ],
+  "visual_review": {
+    "path": "64/qa/visual-review.json"
+  }
+}

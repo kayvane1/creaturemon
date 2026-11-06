@@ -1,0 +1,9 @@
+Create a high-fidelity 64x64 pixel-art RPG battle creature sprite sheet with exactly two cells in one row: left cell is front-facing battle pose, right cell is back-facing player-side pose. Transparent background. No text, no labels, no grid, no UI.
+
+Creature: Nibwing, a small route bird. Do not make it a circular blob. Design it as a plucky crested bird with a slim body, oversized feathered wings, tiny talons, a sharp triangular beak, and a little cap-like crest. It should feel quick and alert. The silhouette should be instantly recognizable at 64px: upright bird body, swept wings, crest, beak, thin legs, and tail feathers.
+
+Style target: premium hand-authored pixel art like a polished indie monster-catching RPG. Use crisp 1-2px dark outline, readable clusters, sub-pixel detail only where it helps, rich but limited palette, soft internal shading, no anti-aliased blur. Match the quality and density of a high-quality generated 64px character sprite strip.
+
+Palette: cool slate-blue and lavender feathers, cream wing tips, dark navy outline, warm yellow beak and feet, subtle pale highlights on feather rows. The front pose should show face, beak, eyes, wing feather layering. The back pose should preserve the same crest and show tail/wing pattern from behind.
+
+Canvas contract: exactly 128x64 image, two 64x64 cells, front sprite centered in left cell, back sprite centered in right cell, full creature fits inside each cell with 4px breathing room, transparent background.
